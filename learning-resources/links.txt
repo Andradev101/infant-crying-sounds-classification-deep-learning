@@ -1,0 +1,11 @@
+* MIT 6.7960 Deep Learning, Fall 2024 - https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/pages/syllabus/
+	Course Description:
+	This course covers the fundamentals of deep learning, including both theory and applications. Topics include neural net architectures (MLPs, CNNs, RNNs, graph nets, transformers), geometry and invariances in deep learning, backpropagation and automatic differentiation, learning theory and generalization in high dimensions, and applications to computer vision, natural language processing, and robotics.
+
+* Professional Machine Learning Engineer (google tech-bound) - https://partner.skills.google/paths/84
+	Hands-on practice using google's technology to create and deploy AI models.
+
+* Machine Learning Systems - https://mlsysbook.ai/book/
+	On going book on both theorical and practical AI challenges and development.
+
+...
