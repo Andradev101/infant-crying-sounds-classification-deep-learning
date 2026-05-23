@@ -1,0 +1,21 @@
+Definindo o problema da pesquisa
+
+Tema: Classificação de problemas respiratórios em neonatos
+
+Motivações:
+    Curiosidade:
+        É possível utilizar aprendizado de máquina para otimizar o cenário de triagem inicial para problemas em neonatos?
+    Parte de uma pesquisa mais ampla:
+        Qual o próximo passo para democratizar o acesso às formas de identificação de problemas em neonatos, mais específicamente em áreas remotas e/ou sem recursos?
+    Desafio:
+        É possível, no longo prazo, perceber uma mudança positiva quanto a capacidade diagnóstica de neonatos para doenças com o uso de modelos de aprendizado de máquina em ambiente produtivo?
+
+Justificativa: 
+    Recém-nascidos possuem capacidade limitada de expressar desconfortos fisiológicos, sendo o choro um dos principais sinais observáveis de alterações em seu estado de saúde. Este fenômeno pode significar muitos problemas, desde um simples problema de necessidades básicas (desconforto, fome), até doenças que podem afetar sua qualidade de vida, ou até comprometer sua sobrevivência em casos mais graves.
+    A detecção precoce dessas complicações pode contribuir de forma significativa para a melhoria do prognóstico neonatal. Entretanto, os métodos de acompahamento hospitalar ainda exigem muita supervisão contínua de profissionais especializados, o que dificulta o acesso de populações em áreas remotas ou com poucos recursos.
+    Diante disso, existe uma vertente de pesquisa que tem por objetivo principal, a classificação dessas doenças utilizando modelos de aprendizado de máquina, com o objetivo de democratizar ou ao menos auxiliar na triagem inicial de que algo não está normal com o paciente.
+
+Problemas de pesquisa: 
+    1 - Como identificar potenciais problemas respiratórios em neonatos rapidamente sem ajuda especializada?
+    2 - A detecção rápida de problemas respiratórios em neonatos pode melhorar sua condição de vida?
+    3 - Como o aprendizado de máquina pode ajudar na detecção de doenças em neonatos através de um dispositivo acessível?

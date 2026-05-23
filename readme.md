@@ -1,3 +1,5 @@
+[Problem definition [WIP] (PT-BR)](./definicao.txt)
+
 Definitions: 
 	Theme: Discovering infant diseases through crying records: A deep learning 
 	classification study.
