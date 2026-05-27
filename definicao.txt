@@ -1,6 +1,11 @@
 Definindo o problema da pesquisa
+Tema:  Classificação de problemas respiratórios em neonatos
 
-Tema: Classificação de problemas respiratórios em neonatos
+Problema:
+    A utilização de modelos de aprendizado de máquina pode otimizar a descoberta de patologias em neonatos de forma rápida de precisa?
+    
+Hipótese:
+    Com a gravação de arquivos de áudio juntamente com a construção e treinamento utilizando aprendizado de máquina, é possível extrair características necessárias para treinar e generalizar modelos de classificação, que respondem de forma binária em caso de vocalização neonatal saudável ou patológica, ou até mesmo de forma mais discriminante, identificando qual tipo de patologia é a mais provável dado a análise deste arquivo de áudio. 
 
 Motivações:
     Curiosidade:
