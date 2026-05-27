@@ -24,3 +24,5 @@ Problemas de pesquisa:
     1 - Como identificar potenciais problemas respiratórios em neonatos rapidamente sem ajuda especializada?
     2 - A detecção rápida de problemas respiratórios em neonatos pode melhorar sua condição de vida?
     3 - Como o aprendizado de máquina pode ajudar na detecção de doenças em neonatos através de um dispositivo acessível?
+
+Mais informações em: https://github.com/Andradev101/infant-crying-sounds-classification-deep-learning/tree/master
